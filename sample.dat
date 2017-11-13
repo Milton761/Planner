@@ -1,0 +1,33 @@
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem01      0.027          3      0.017          6          8      1.333      0.375
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem02      0.124          5      0.087         15         22      1.467      0.227
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem03      0.414          9      0.300         33         51      1.545      0.176
+problem04      -1          -1      -1         -1         -1      -1      -1
+problem05      -1          -1      -1         -1         -1      -1      -1
+problem06      -1          -1      -1         -1         -1      -1      -1
+problem07      -1          -1      -1         -1         -1      -1      -1
+problem08      -1          -1      -1         -1         -1      -1      -1
+problem09      -1          -1      -1         -1         -1      -1      -1
+problem10      -1          -1      -1         -1         -1      -1      -1
+problem11      -1          -1      -1         -1         -1      -1      -1
+problem12      -1          -1      -1         -1         -1      -1      -1
+problem13      -1          -1      -1         -1         -1      -1      -1
+problem14      -1          -1      -1         -1         -1      -1      -1
+problem15      -1          -1      -1         -1         -1      -1      -1
+problem16      -1          -1      -1         -1         -1      -1      -1
+problem17      -1          -1      -1         -1         -1      -1      -1
+problem18      -1          -1      -1         -1         -1      -1      -1
+problem19      -1          -1      -1         -1         -1      -1      -1
+problem20      -1          -1      -1         -1         -1      -1      -1
+problem21      -1          -1      -1         -1         -1      -1      -1
+problem22      -1          -1      -1         -1         -1      -1      -1
+problem23      -1          -1      -1         -1         -1      -1      -1
+problem24      -1          -1      -1         -1         -1      -1      -1
+problem25      -1          -1      -1         -1         -1      -1      -1
+problem26      -1          -1      -1         -1         -1      -1      -1
+problem27      -1          -1      -1         -1         -1      -1      -1
+problem28      -1          -1      -1         -1         -1      -1      -1
+problem29      -1          -1      -1         -1         -1      -1      -1
+problem30      -1          -1      -1         -1         -1      -1      -1

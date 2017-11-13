@@ -1,0 +1,8 @@
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem01      0.000          0      0.000          1          0      0.000      1.000
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem02      0.156          8      0.000         26         50      1.923      0.160
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem03      0.212         13      0.000         41         60      1.463      0.217
+#                 Name       Time       Cost  Hrst-Time st-Visited st-Expnded  brch-Fact Penetrancy
+             problem04      4.086         78      0.001        263        436      1.658      0.179
